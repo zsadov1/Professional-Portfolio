@@ -1,4 +1,6 @@
-
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 #lab_social_icon_footer {
     padding: 20px 0;
@@ -25,3 +27,11 @@
     -moz-transition-duration: 0.5s;
     -o-transition-duration: 0.5s;
   }
+
+.background{
+  background-color: #FFFFFF;
+}
+
+body{
+  background-color: #F8F9FA;
+}
